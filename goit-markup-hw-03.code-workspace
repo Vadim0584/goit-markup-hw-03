@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../goit-markup-hw-02/imegis"
+		},
+		{
+			"path": "../goit-markup-hw-02/images1"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "goit-markup-hw-03"
+	}
+}
